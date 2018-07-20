@@ -7,6 +7,7 @@
    2. [transferlearning -- 迁移学习](https://github.com/jindongwang/transferlearning)  
    3. [MachineLearning-1 -- 机器学习资源](https://github.com/allmachinelearning/MachineLearning)  
    4. [Coursera-ML-AndrewNg-Notes -- 吴恩达老师的机器学习课程个人笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) 
+   5. [126篇殿堂级深度学习论文分类整理 从入门到应用](https://www.leiphone.com/news/201702/FWkJ2AdpyQRft3vW.html) 
 2. javaweb 方面
    1. [Interview-Notebook -- 技术面试需要掌握的基础知识整理](https://github.com/CyC2018/Interview-Notebook)  
    2. [zheng -- 全方位J2EE企业级开发解决方案实战项目](https://github.com/shuzheng/zheng)  
