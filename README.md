@@ -15,11 +15,16 @@
    4. [JDK-Source-Code -- 应该掌握的 JDK 源代码](https://github.com/CyC2018/JDK-Source-Code)  
    5. [web -- 前端入门和进阶学习笔记](https://github.com/smyhvae/Web)  
    6. [learn -- 自学笔记与一些实用文档](https://github.com/Zouzhp3/Learn) 
-   7. [Algorithms -- 数据结构与算法题集](https://github.com/Loveslife/Algorithms) 
-   8. [算法第4版源码](https://gitee.com/toscanago/algs4) 
-   9. [算法（第4版）书中的代码](https://github.com/jimmysuncpt/Algorithms) 
-   10. [设计模式](https://github.com/jimmysuncpt/DesignPatterns) 
-3. 其他
+   7. ​
+   8. [设计模式](https://github.com/jimmysuncpt/DesignPatterns) 
+3. 算法第四版相关
+   1. [Algorithms -- 数据结构与算法题集](https://github.com/Loveslife/Algorithms) 
+   2. [算法第4版源码](https://gitee.com/toscanago/algs4) 
+   3. [算法（第4版）书中的代码](https://github.com/jimmysuncpt/Algorithms) 
+   4. [kyson 大神的简书博客](https://www.jianshu.com/u/24d715499bcf) 
+   5. [书上各种经典算法的代码实现](https://algs4.cs.princeton.edu/code/) 
+   6. [官方维护的Git Repository](https://github.com/kevin-wayne/algs4) 
+4. 其他
    1. [programmer-job-blacklist -- 程序员找工作黑名单，换工作和当技术合伙人需谨慎啊](https://github.com/shengxinjing/programmer-job-blacklist)  
    2. [tools -- ubuntu 等基本配置](https://github.com/tofar/tools)   
    3. [free-programming-books -- Freely available programming books](https://github.com/EbookFoundation/free-programming-books)  
