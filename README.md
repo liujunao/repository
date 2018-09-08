@@ -16,6 +16,9 @@
    5. [web -- 前端入门和进阶学习笔记](https://github.com/smyhvae/Web)  
    6. [learn -- 自学笔记与一些实用文档](https://github.com/Zouzhp3/Learn) 
    7. [Algorithms -- 数据结构与算法题集](https://github.com/Loveslife/Algorithms) 
+   8. [算法第4版源码](https://gitee.com/toscanago/algs4) 
+   9. [算法（第4版）书中的代码](https://github.com/jimmysuncpt/Algorithms) 
+   10. [设计模式](https://github.com/jimmysuncpt/DesignPatterns) 
 3. 其他
    1. [programmer-job-blacklist -- 程序员找工作黑名单，换工作和当技术合伙人需谨慎啊](https://github.com/shengxinjing/programmer-job-blacklist)  
    2. [tools -- ubuntu 等基本配置](https://github.com/tofar/tools)   
